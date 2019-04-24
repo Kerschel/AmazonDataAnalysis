@@ -1,0 +1,12 @@
+Peason's r coefficient = -0.02158564373051573
+Average of all ratings = 4.145253080468435
+Mode review of the ratings = 5
+The distribution is Negatively Skewed
+Median items are B0059GW67Uand B004RDUY2K
+
+9857241 Records
+B0054JZC6E Was reviewed the most with count 25366
+The person who review the most items was A14OJS0VWMOSWO
+The person who gave the most useful reviews was A14OJS0VWMOSWO
+Most expensive item with high review = B000KX19I4
+Cheapest item with high review = B00DSNTDJ0
